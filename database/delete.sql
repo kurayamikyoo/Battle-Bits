@@ -1,0 +1,3 @@
+DROP DATABASE feedbacks;
+DROP DATABASE users;
+DROP DATABASE assistants;
